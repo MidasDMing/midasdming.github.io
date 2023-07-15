@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Received a OMRON grant 125000RMB to study the foreground extraction algorithm!
+Received the OMRON grant 125000RMB to study the foreground extraction algorithm!
