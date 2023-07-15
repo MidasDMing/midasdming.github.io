@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 subtitle: >
-  <h2> Email - diming@cqut.edu.cn </h2>
+  <h4> Email - diming@cqut.edu.cn </h4>
 
 profile:
   align: right
@@ -13,7 +13,7 @@ profile:
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
-selected_papers: false # includes a list of papers marked as "selected={true}"
+selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
@@ -24,4 +24,4 @@ Before that, I received my master in Computer Science from University of Electro
 
 My primary research interests are machine Learning, optimization and data mining, aiming at developing robust and flexible learning models to solve real-world problems in various scenarios, such as feature selection, data reconstruction, subspace clustering, representation learning, adversarial attack, foreground object extraction, dermoscopy image segmentation, etc.
 
-<b>Office</b>: Room B208, First Laboratory Building, 69 Hongguang Avenue, Banan District, Chongqing 400054, China.
+<b>Office</b>: Room B208, First Laboratory Building, 69 Hongguang Avenue, Banan District, Chongqing 400054.
