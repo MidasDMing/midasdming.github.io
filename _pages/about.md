@@ -3,9 +3,7 @@ layout: about
 title: about
 permalink: /
 subtitle: >
-  <p style = "margin:2px"> Email -  diming@cqut.edu.cn </p>
-  <p style = "margin:2px"> Office - Room B208, First Laboratory Building </p>
-  <p style = "margin:2px"> Address - 69 Hongguang Avenue, Banan District, Chongqing 400054, China </p>
+  <p> Email - diming@cqut.edu.cn </p>
 
 profile:
   align: right
@@ -25,3 +23,5 @@ I obtained my Ph.D. degree in Computer Science from <a href="https://www.uta.edu
 Before that, I received my master in Computer Science from University of Electronic Science and Technology of China under the supervision of <a href="https://faculty.uestc.edu.cn/wenquan/zh_CN/index.htm">Prof. Quan Wen</a> in Jun 2014, and received my bachelor in Computer Science from Sichuan Agricultural University in Jun 2011.
 
 My primary research interests are machine Learning, optimization and data mining, aiming at developing robust and flexible learning models to solve real-world problems in various scenarios, such as feature selection, data reconstruction, subspace clustering, representation learning, adversarial attack, foreground object extraction, dermoscopy image segmentation, etc.
+
+Office: Room B208, First Laboratory Building, 69 Hongguang Avenue, Banan District, Chongqing 400054, China.
