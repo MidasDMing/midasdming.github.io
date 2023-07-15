@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 subtitle: >
-  <p> Email - diming@cqut.edu.cn </p>
+  <h2> Email - diming@cqut.edu.cn </h2>
 
 profile:
   align: right
@@ -24,4 +24,4 @@ Before that, I received my master in Computer Science from University of Electro
 
 My primary research interests are machine Learning, optimization and data mining, aiming at developing robust and flexible learning models to solve real-world problems in various scenarios, such as feature selection, data reconstruction, subspace clustering, representation learning, adversarial attack, foreground object extraction, dermoscopy image segmentation, etc.
 
-Office: Room B208, First Laboratory Building, 69 Hongguang Avenue, Banan District, Chongqing 400054, China.
+<b>Office</b>: Room B208, First Laboratory Building, 69 Hongguang Avenue, Banan District, Chongqing 400054, China.
