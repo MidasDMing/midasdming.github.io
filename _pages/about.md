@@ -3,9 +3,9 @@ layout: about
 title: about
 permalink: /
 subtitle: >
-  <p> Email -  diming@cqut.edu.cn </p>
-  <p> Office - Room B208, First Laboratory Building </p>
-  <p> Address - 69 Hongguang Avenue, Banan District, Chongqing 400054, China </p>
+  <p style = "margin:2px"> Email -  diming@cqut.edu.cn </p>
+  <p style = "margin:2px"> Office - Room B208, First Laboratory Building </p>
+  <p style = "margin:2px"> Address - 69 Hongguang Avenue, Banan District, Chongqing 400054, China </p>
 
 profile:
   align: right
