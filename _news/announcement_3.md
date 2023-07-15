@@ -6,4 +6,4 @@ related_posts: false
 ---
 
 
-Received the Scientific Research Foundation of Chongqing University of Technology grant 200K(RMB) to study the structural sparsity based robust and flexible learning model!
+Received the Scientific Research Foundation of Chongqing University of Technology grant 200K(RMB) to study structural sparsity based robust and flexible learning model!

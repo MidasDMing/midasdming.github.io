@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Received the youth project of science and technology research program of Chongqing Education Commission of China grant 40K(RMB) to study the transferable sparse adversarial attack algorithm!
+Received the youth project of science and technology research program of Chongqing Education Commission of China grant 40K(RMB) to study transferable sparse adversarial attack algorithm!
