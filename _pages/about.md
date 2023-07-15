@@ -2,8 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: >
-  <p> Email - diming@cqut.edu.cn </p>
+subtitle: Email - diming@cqut.edu.cn
 
 profile:
   align: right
