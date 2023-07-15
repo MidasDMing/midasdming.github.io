@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper accepted by ICCV 2023! :sparkles: :smile:
+A simple inline announcement with Markdown emoji! :sparkles: :smile:
