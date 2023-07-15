@@ -21,6 +21,6 @@ I am now a lecturer in School of Computer Science and Engineering at Chongqing U
 I obtained my Ph.D. degree in Computer Science from <a href="https://www.uta.edu/">University of Texas at Arlington</a> under the supervision of <a href="https://sds.cuhk.edu.cn/en/teacher/197">Prof. Chris H.Q. Ding</a> in May 2020.
 Before that, I received my master in Computer Science from University of Electronic Science and Technology of China under the supervision of <a href="https://faculty.uestc.edu.cn/wenquan/zh_CN/index.htm">Prof. Quan Wen</a> in June 2014, and received my bachelor in Computer Science from Sichuan Agricultural University in June 2011.
 
-My primary research interests are machine Learning, optimization and data mining, aiming at developing robust and flexible learning models to solve real-world problems in various scenarios, such as sparse coding, feature selection, data reconstruction, subspace clustering, representation learning, graph learning, adversarial attack, foreground extraction, semantic segmentation, etc.
+My primary research interests are machine learning, data mining, and optimization, aiming at developing robust and flexible learning models to solve real-world problems in various scenarios, such as feature selection, data reconstruction, subspace clustering, representation learning, graph learning, adversarial attack, foreground extraction, dermoscopy image segmentation, etc.
 
 <b>Office</b>: Room B208, First Laboratory Building, 69 Hongguang Avenue, Banan District, Chongqing 400054.
