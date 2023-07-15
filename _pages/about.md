@@ -9,6 +9,7 @@ profile:
   image: my_yellow_stone_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
+    <p>My Office Address:</p>
     <p>Room B208</p>
     <p>First Laboratory Building</p>
     <p>69 Hongguang Avenue</p>
