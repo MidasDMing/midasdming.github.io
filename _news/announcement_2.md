@@ -5,5 +5,4 @@ inline: true
 related_posts: false
 ---
 
-
-One paper accepted by IJCAI 2019!
+One paper accepted by 28th International Joint Conference on Artificial Intelligence (IJCAI 2019)!

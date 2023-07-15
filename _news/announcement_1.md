@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper accepted by AAAI 2019!
+One paper accepted by Thirty-Third AAAI Conference on Artificial Intelligence (AAAI 2019)!
