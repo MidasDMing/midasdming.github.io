@@ -9,8 +9,10 @@ profile:
   image: my_yellow_stone_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Room B208, First Laboratory Building</p>
-    <p>69 Hongguang Avenue, Banan District</p>
+    <p>Room B208</p>
+    <p>First Laboratory Building</p>
+    <p>69 Hongguang Avenue</p>
+    <p>Banan District</p>
     <p>Chongqing 400054, China</p>
 
 news: true  # includes a list of news items
