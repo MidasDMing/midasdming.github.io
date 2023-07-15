@@ -9,12 +9,12 @@ profile:
   image: my_yellow_stone_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>My Office Address:</p>
-    <p>Room B208</p>
-    <p>First Laboratory Building</p>
-    <p>69 Hongguang Avenue</p>
-    <p>Banan District</p>
-    <p>Chongqing 400054, China</p>
+    <p style="font-size:14px; ">My Office:</p>
+    <p style="font-size:14px; ">Room B208</p>
+    <p style="font-size:14px; ">First Laboratory Building</p>
+    <p style="font-size:14px; ">69 Hongguang Avenue</p>
+    <p style="font-size:14px; ">Banan District</p>
+    <p style="font-size:14px; ">Chongqing 400054, China</p>
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
