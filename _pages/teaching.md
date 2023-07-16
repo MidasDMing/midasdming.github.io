@@ -2,11 +2,18 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: Undergraduate and graduate courses that I will be teaching annually.
 nav: true
 nav_order: 5
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+### CS 3102, CS 2020303 - Data Science
+- Spring 2023
+- Fall 2022
 
-Organize your courses by years, topics, or universities, however you like!
+### CS 2030304 - Deep Learning
+- Spring 2023
+
+### CS 1030068, CS 6030303 - Machine Learning
+- Spring 2023
+- Spring 2022
