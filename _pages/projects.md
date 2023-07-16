@@ -2,7 +2,9 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: >
+  <p><b> My projects page will be released soon. </b></p>
+  <p> A growing collection of your cool projects. </p
 nav: true
 nav_order: 2
 display_categories: [work, fun]
