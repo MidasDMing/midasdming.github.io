@@ -1,6 +1,6 @@
 ---
 layout: post
-title: One paper accepted by International Conference on Computer Vision 2023 (ICCV 2023)!
+title: One paper accepted by International Conference on Computer Vision 2023 (<p style="color:red;font-family:sans-serif;">ICCV 2023</p>)!
 date: 2023-07-15 07:59:00-0400
 inline: false
 related_posts: false
