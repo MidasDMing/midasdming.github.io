@@ -3,10 +3,10 @@ layout: page
 title: MILO-Group
 permalink: /projects/
 description: >
-  <h2> <b>M</b>achine <b>I</b>ntelligence and <b>L</b>arge-scale <b>O</b>ptimization Group (MILO-Group)</h2>
-  <p> TBD. </p
+  <h4> <b>M</b>achine <b>I</b>ntelligence and <b>L</b>arge-scale <b>O</b>ptimization Group (MILO-Group)</h4>
+  <h4> TBD. </h4>
 nav: true
-nav_order: 2
+nav_order: 10
 display_categories: [2023, 2022, 2020]
 horizontal: false
 ---
