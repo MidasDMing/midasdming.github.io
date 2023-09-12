@@ -3,7 +3,7 @@ layout: page
 title: Chen Yi
 description: Graduate Student, Starting in Fall 2022.
 img:
-importance: 3
+importance: 2
 category: 2022
 ---
 

@@ -4,7 +4,7 @@ title: Junyang Zhang
 description: Graduate Student, Starting in Fall 2022.
 img:
 redirect: https://unsplash.com
-importance: 3
+importance: 1
 category: 2022
 ---
 

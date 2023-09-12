@@ -3,7 +3,7 @@ layout: page
 title: Yiran Liu
 description: Graduate Student, Fall 2020 - Spring 2023 (Co-supervised with Prof. Wu Yang and Prof. Xin Feng). Next Stop: BUPT, PhD.
 img:
-importance: 4
+importance: 1
 category: 2020
 ---
 

@@ -2,7 +2,7 @@
 layout: page
 title: Peng Ren
 description: Graduate Student, Starting in Fall 2022. (Co-supervised with Prof. Xin Feng)
-img: assets/img/1.jpg
+img: 
 importance: 3
 category: 2022
 ---
