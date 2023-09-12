@@ -1,9 +1,7 @@
 ---
 layout: page
 title: Structural Sparsity Based Robust and Flexible Learning Model
-description: >
-  <p> Grant&#58; Scientific Research Foundation of Chongqing University of Technology</p>
-  <p> 2022-2025 </p>
+description: Grant&#58; Scientific Research Foundation of Chongqing University of Technology <br> Year&#58; 2022-2025
 img:
 redirect: https://unsplash.com
 importance: 003
