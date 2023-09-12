@@ -4,6 +4,7 @@ title: MILO-Group
 permalink: /projects/
 description: >
   <h4> <b>M</b>achine <b>I</b>ntelligence and <b>L</b>arge-scale <b>O</b>ptimization Group (MILO-Group)</h4>
+  <h4> TBD. </h4>
 nav: true
 nav_order: 3
 display_categories: [Projects, Principal Investigator, Master Students, Alumni]
