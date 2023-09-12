@@ -7,7 +7,7 @@ description: >
   <h4> TBD. </h4>
 nav: true
 nav_order: 3
-display_categories: [Project, Graduate Student 2020, Graduate Student 2022, Graduate Student 2023]
+display_categories: [Projects, Graduate Students 2020, Graduate Students 2022, Graduate Students 2023]
 horizontal: true
 ---
 
