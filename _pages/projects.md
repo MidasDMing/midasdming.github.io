@@ -7,7 +7,7 @@ description: >
   <h4> TBD. </h4>
 nav: true
 nav_order: 3
-display_categories: [Projects, Principal Investigator, Master Students, Alumni]
+display_categories: [Projects, Students]
 horizontal: true
 ---
 

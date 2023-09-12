@@ -5,7 +5,7 @@ description: Graduate Student, Fall 2020 - Spring 2023, Co-supervised with Prof.
 img:
 redirect: https://unsplash.com
 importance: 101
-category: Alumni
+category: Students
 ---
 
 TBD.
