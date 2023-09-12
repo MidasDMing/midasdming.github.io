@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 6
-description: a project with no image
+title: Ruijie Luo
+description: Graduate Student, Starting in Fall 2022. (Co-supervised with Prof. Xin Feng)
 img:
 importance: 4
-category: 2020
+category: 2022
 ---
 
 Every project has a beautiful feature showcase page.

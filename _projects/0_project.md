@@ -1,11 +1,10 @@
 ---
 layout: page
-title: Wen Yang
-description: Graduate Student, Starting in Fall 2023.
+title: Yiran Liu
+description: Graduate Student, Fall 2020 - Spring 2023 (Co-supervised with Prof. Wu Yang and Prof. Xin Feng). Next Stop: BUPT, PhD.
 img:
-importance: 1
-category: 2023
-related_publications: einstein1956investigations, einstein1950meaning
+importance: 4
+category: 2020
 ---
 
 Every project has a beautiful feature showcase page.

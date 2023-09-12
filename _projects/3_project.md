@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
-img: assets/img/7.jpg
+title: Junyang Zhang
+description: Graduate Student, Starting in Fall 2022.
+img:
 redirect: https://unsplash.com
 importance: 3
 category: 2022

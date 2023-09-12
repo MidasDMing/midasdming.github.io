@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
+title: Peng Ren
+description: Graduate Student, Starting in Fall 2022. (Co-supervised with Prof. Xin Feng)
 img: assets/img/1.jpg
 importance: 3
 category: 2022

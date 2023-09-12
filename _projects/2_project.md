@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image
-img: assets/img/3.jpg
+title: Junwei Xie
+description: Graduate Student, Starting in Fall 2023.
+img:
 importance: 2
 category: 2023
 ---
