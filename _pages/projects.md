@@ -1,13 +1,13 @@
 ---
 layout: page
-title: projects
+title: MILO-Group
 permalink: /projects/
 description: >
-  <p><b> My projects page will be released soon. </b></p>
-  <p> A growing collection of your cool projects. </p
+  <p> <b>M</b>achine <b>I</b>ntelligence and <b>L</b>arge-scale <b>O</b>ptimization Group (MILO-Group)</p>
+  <p> TBD. </p
 nav: true
 nav_order: 2
-display_categories: [work, fun]
+display_categories: [2023, 2022, 2020]
 horizontal: false
 ---
 
