@@ -3,8 +3,8 @@ layout: page
 title: Chen Yi
 description: Graduate Student, Starting in Fall 2022.
 img:
-importance: 2
-category: 2022
+importance: 3
+category: Graduate Students
 ---
 
 Every project has a beautiful feature showcase page.

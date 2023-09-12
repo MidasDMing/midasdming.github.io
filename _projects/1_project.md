@@ -3,8 +3,8 @@ layout: page
 title: Wen Yang
 description: Graduate Student, Starting in Fall 2023.
 img:
-importance: 1
-category: 2023
+importance: 6
+category: Graduate Students
 related_publications: einstein1956investigations, einstein1950meaning
 ---
 

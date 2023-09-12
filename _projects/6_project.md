@@ -3,8 +3,8 @@ layout: page
 title: Ruijie Luo
 description: Graduate Student, Starting in Fall 2022. (Co-supervised with Prof. Xin Feng)
 img:
-importance: 4
-category: 2022
+importance: 5
+category: Graduate Students
 ---
 
 Every project has a beautiful feature showcase page.

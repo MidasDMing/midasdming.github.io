@@ -3,8 +3,8 @@ layout: page
 title: Junwei Xie
 description: Graduate Student, Starting in Fall 2023.
 img:
-importance: 2
-category: 2023
+importance: 7
+category: Graduate Students
 ---
 
 Every project has a beautiful feature showcase page.
