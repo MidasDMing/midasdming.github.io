@@ -17,7 +17,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am now a lecturer in School of Computer Science and Engineering at Chongqing University of Technology, and leading the <b><a href="https://scholar.google.com/citations?user=NQRaX1oAAAAJ&hl=en">Machine Intelligence and Large-scale Optimization (MILO)</a></b> Research Group.
+I am now a lecturer in School of Computer Science and Engineering at Chongqing University of Technology, and leading the <b><a href="https://midasdming.github.io/projects/">Machine Intelligence and Large-scale Optimization (MILO)</a></b> Research Group.
 
 I obtained my Ph.D. degree in Computer Science from <b><a href="https://www.uta.edu/">University of Texas at Arlington</a></b> under the supervision of <b><a href="https://sds.cuhk.edu.cn/en/teacher/197">Prof. Chris H.Q. Ding</a></b> in May 2020.
 Before that, I received my master degree in Computer Science from University of Electronic Science and Technology of China under the supervision of <b><a href="https://faculty.uestc.edu.cn/wenquan/zh_CN/index.htm">Prof. Quan Wen</a></b> in June 2014, and received my bachelor degree in Computer Science from Sichuan Agricultural University in June 2011.
