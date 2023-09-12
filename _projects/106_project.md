@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Wen Yang
-description: Graduate Student, Staring in Fall 2023. <br> Research Topic&#58; Adversarial Attack.
+description: Graduate Student, Starting in Fall 2023. <br> Research Topic&#58; Adversarial Attack.
 img:
 redirect: https://unsplash.com
 importance: 106
