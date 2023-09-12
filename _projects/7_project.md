@@ -4,7 +4,8 @@ title: Junwei Xie
 description: Starting in Fall 2023.
 img:
 importance: 7
-category: Graduate Students
+category: Graduate Students - 2023
+related_publications: einstein1956investigations, einstein1950meaning
 ---
 
 Every project has a beautiful feature showcase page.

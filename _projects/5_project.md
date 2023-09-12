@@ -4,7 +4,7 @@ title: Ruijie Luo
 description: Starting in Fall 2022, Co-supervised with Prof. Xin Feng.
 img:
 importance: 5
-category: Graduate Students
+category: Graduate Students - 2022
 ---
 
 Every project has a beautiful feature showcase page.

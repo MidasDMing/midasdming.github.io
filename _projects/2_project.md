@@ -5,7 +5,7 @@ description: Starting in Fall 2022.
 img:
 redirect: https://unsplash.com
 importance: 2
-category: Graduate Students
+category: Graduate Students - 2022
 ---
 
 Every project has a beautiful feature showcase page.

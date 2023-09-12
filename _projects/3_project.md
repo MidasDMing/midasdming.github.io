@@ -4,7 +4,7 @@ title: Chen Yi
 description: Starting in Fall 2022.
 img:
 importance: 3
-category: Graduate Students
+category: Graduate Students - 2022
 ---
 
 Every project has a beautiful feature showcase page.

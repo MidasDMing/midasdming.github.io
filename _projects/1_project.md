@@ -5,7 +5,7 @@ description: Fall 2020 - Spring 2023, Co-supervised with Prof. Wu Yang and Prof.
 img:
 redirect: https://unsplash.com
 importance: 1
-category: Graduate Students
+category: Graduate Students - 2020
 ---
 
 Every project has a beautiful feature showcase page.

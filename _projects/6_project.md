@@ -4,7 +4,7 @@ title: Wen Yang
 description: Starting in Fall 2023.
 img:
 importance: 6
-category: Graduate Students
+category: Graduate Students - 2023
 related_publications: einstein1956investigations, einstein1950meaning
 ---
 
