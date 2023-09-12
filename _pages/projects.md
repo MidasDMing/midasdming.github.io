@@ -3,7 +3,7 @@ layout: page
 title: MILO-Group
 permalink: /projects/
 description: >
-  <p> <b>M</b>achine <b>I</b>ntelligence and <b>L</b>arge-scale <b>O</b>ptimization Group (MILO-Group)</p>
+  <h2> <b>M</b>achine <b>I</b>ntelligence and <b>L</b>arge-scale <b>O</b>ptimization Group (MILO-Group)</h2>
   <p> TBD. </p
 nav: true
 nav_order: 2
