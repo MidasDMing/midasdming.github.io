@@ -8,7 +8,7 @@ description: >
   <h6> At MILO group, we have broad research interests spanning from the theory to the application aspects of machine learning and large-scale optimization. Our current research works include: sparse learning, adversarial attack, semantic segmentation, graph learning, clustering, curriculum optimization, bilevel optimization, multi-stage optimization, etc. </h6>
 nav: true
 nav_order: 3
-display_categories: [Projects, Students]
+display_categories: [Projects, Students, Codes]
 horizontal: true
 ---
 
