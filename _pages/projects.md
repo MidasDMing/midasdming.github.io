@@ -8,7 +8,7 @@ description: >
 nav: true
 nav_order: 3
 display_categories: [Projects, Graduate Students]
-horizontal: false
+horizontal: true
 ---
 
 <!-- pages/projects.md -->
