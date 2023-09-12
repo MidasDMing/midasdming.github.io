@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Transferable Sparse Adversarial Attack
-description: 2023-2025
+title: Foreground Prediction Algorithm
+description: 2023
 img:
 redirect: https://unsplash.com
-importance: 001
+importance: 002
 category: Projects
 ---
 
