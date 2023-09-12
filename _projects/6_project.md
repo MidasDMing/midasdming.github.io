@@ -1,10 +1,11 @@
 ---
 layout: page
-title: Ruijie Luo
-description: Graduate Student, Starting in Fall 2022. (Co-supervised with Prof. Xin Feng)
+title: Wen Yang
+description: Starting in Fall 2023.
 img:
-importance: 5
+importance: 6
 category: Graduate Students
+related_publications: einstein1956investigations, einstein1950meaning
 ---
 
 Every project has a beautiful feature showcase page.

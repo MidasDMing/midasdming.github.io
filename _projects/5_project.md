@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Peng Ren
-description: Graduate Student, Starting in Fall 2022. (Co-supervised with Prof. Xin Feng)
+title: Ruijie Luo
+description: Starting in Fall 2022, Co-supervised with Prof. Xin Feng.
 img:
-importance: 4
+importance: 5
 category: Graduate Students
 ---
 

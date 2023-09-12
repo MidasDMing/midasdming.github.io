@@ -1,10 +1,9 @@
 ---
 layout: page
-title: Junyang Zhang
-description: Graduate Student, Starting in Fall 2022.
+title: Chen Yi
+description: Starting in Fall 2022.
 img:
-redirect: https://unsplash.com
-importance: 2
+importance: 3
 category: Graduate Students
 ---
 

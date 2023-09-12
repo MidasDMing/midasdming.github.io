@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: >
   <p> Email: diming@cqut.edu.cn, initialdiming@yahoo.com </p>
