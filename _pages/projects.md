@@ -5,7 +5,7 @@ permalink: /projects/
 description: >
   <h4> <b>M</b>achine <b>I</b>ntelligence and <b>L</b>arge-scale <b>O</b>ptimization Group (MILO-Group)</h4>
   <h6> Founded in 2022, Led by Dr. Di Ming. </h6>
-  <h6> At MILO group, we have broad research interests spanning from the theory to the application aspects of machine learning and large-scale optimization. Our current research works include: sparse learning, adversarial attack, semantic segmentation, graph learning, clustering, curriculum optimization, bilevel optimization, multi-stage optimization, etc. </h6>
+  <h6> At MILO group, we have broad research interests spanning from the theory to the application aspects of machine learning and large-scale optimization. Our current research works include: sparse learning, network pruning, adversarial attack, semantic segmentation, graph learning, clustering, self-supervised learning, nonlinear optimization, bilevel optimization, curriculum optimization, multi-stage optimization, etc. </h6>
 nav: true
 nav_order: 3
 display_categories: [Projects, Students]
