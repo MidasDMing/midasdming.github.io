@@ -619,7 +619,7 @@ footer.sticky-bottom {
         height: 2rem;
         margin-bottom: 0.5rem;
 
-        abbr {
+        abbr_ccf {
           display: inline-block;
           background-color: var(--global-hover-text-color);
           padding-left: 1rem;
@@ -632,11 +632,6 @@ footer.sticky-bottom {
               text-decoration: none;
             }
           }
-        }
-
-        .award {
-          color: var(--global-theme-color) !important;
-          border: 1px solid var(--global-theme-color);
         }
       }
 
