@@ -3,7 +3,7 @@ layout: page
 permalink: /publications/
 title: Publications
 description: >
-  <p> <b>CCF-A</b> denotes the list of top (Tier A) international academic periodicals and conferences recommended by China Computer Federation (CCF). </p>
+  <p> <b>CCF-A</b> denotes the list of top (Tier A) international academic periodicals and conferences recommended by <a href="https://www.ccf.org.cn/en/Bulletin/2019-05-13/663884.shtml">China Computer Federation (CCF)</a>. </p>
   <p> <b>*</b> denotes the corresponding author.</p>
 nav: true
 nav_order: 1
