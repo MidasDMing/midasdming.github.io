@@ -26,7 +26,15 @@
           {%- endif -%}
         {%- endif -%}
         {%- if entry.abbr_ccf -%}
-          <b style="color:red;font-family:sans-serif;"><br>{{entry.abbr_ccf}}</b>
+          {%- if site.data.venues[entry.abbr_ccf] -%}
+            {%- assign venue_style = nil -%}
+            {%- if site.data.venues[entry.abbr_ccf].color != blank -%}
+              {%- assign venue_style = site.data.venues[entry.abbr_ccf].color | prepend: 'style="background-color:' | append: '"' -%}
+            {%- endif -%}
+            <abbr class="badge" {% if venue_style %}{{venue_style}}{% endif %}><a href="{{site.data.venues[entry.abbr_ccf].url}}">{{entry.abbr_ccf}}</a></abbr>
+          {%- else -%}
+            <abbr class="badge">{{entry.abbr_ccf}}</abbr>
+          {%- endif -%}
         {%- endif -%}
         </div>
 
