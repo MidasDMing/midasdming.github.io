@@ -601,31 +601,6 @@ footer.sticky-bottom {
           padding-right: 1rem;
 
           a {
-            color: white;
-
-            &:hover {
-              text-decoration: none;
-            }
-          }
-        }
-
-        .award {
-          color: var(--global-theme-color) !important;
-          border: 1px solid var(--global-theme-color);
-        }
-      }
-
-      .abbr_ccf {
-        height: 2rem;
-        margin-bottom: 0.5rem;
-
-        abbr_ccf {
-          display: inline-block;
-          background-color: var(--global-theme-color);
-          padding-left: 1rem;
-          padding-right: 1rem;
-
-          a {
             color: red;
 
             &:hover {
