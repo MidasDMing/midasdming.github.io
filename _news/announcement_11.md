@@ -6,6 +6,10 @@ inline: false
 related_posts: false
 ---
 
+### <b>TRM-UAP&#58; Enhancing the Transferability of Data-Free Universal Adversarial Perturbation via Truncated Ratio Maximization</b>
+
+***
+
 <b>Yiran Liu, Xin Feng, Yunlong Wang, Wu Yang, Di Ming&#42;</b>&#59; Proceedings of the IEEE&#47;CVF International Conference on Computer Vision (ICCV), 2023, pp. 4762-4771
 
 ***
@@ -18,7 +22,7 @@ Aiming at crafting a single universal adversarial perturbation (UAP) to fool CNN
 
 #### Related Material
 
-<font color="blue"> <&#91;<a href="https://openaccess.thecvf.com/content/ICCV2023/html/Liu_TRM-UAP_Enhancing_the_Transferability_of_Data-Free_Universal_Adversarial_Perturbation_via_ICCV_2023_paper.html">Html<a>&#93; &#91;<a href="https://openaccess.thecvf.com/content/ICCV2023/papers/Liu_TRM-UAP_Enhancing_the_Transferability_of_Data-Free_Universal_Adversarial_Perturbation_via_ICCV_2023_paper.pdf">Paper<a>&#93; &#91;<a href="https://openaccess.thecvf.com/content/ICCV2023/supplemental/Liu_TRM-UAP_Enhancing_the_ICCV_2023_supplemental.pdf">Supp<a>&#93; &#91;<a href="https://drive.google.com/file/d/16ljA-MjlF8dHHp5NVcHUtUjFX1u7HI8B/view?usp=sharing">Poster<a>&#93; &#91;<a href="https://drive.google.com/file/d/16Rdu6pGuSuaK14H1MK7acxatkHMjj_oL/view">Video<a>&#93; </font>
+&#91;<a href="https://openaccess.thecvf.com/content/ICCV2023/html/Liu_TRM-UAP_Enhancing_the_Transferability_of_Data-Free_Universal_Adversarial_Perturbation_via_ICCV_2023_paper.html">Html<a>&#93; &#91;<a href="https://openaccess.thecvf.com/content/ICCV2023/papers/Liu_TRM-UAP_Enhancing_the_Transferability_of_Data-Free_Universal_Adversarial_Perturbation_via_ICCV_2023_paper.pdf">Paper<a>&#93; &#91;<a href="https://openaccess.thecvf.com/content/ICCV2023/supplemental/Liu_TRM-UAP_Enhancing_the_ICCV_2023_supplemental.pdf">Supp<a>&#93; &#91;<a href="https://drive.google.com/file/d/16ljA-MjlF8dHHp5NVcHUtUjFX1u7HI8B/view?usp=sharing">Poster<a>&#93; &#91;<a href="https://drive.google.com/file/d/16Rdu6pGuSuaK14H1MK7acxatkHMjj_oL/view">Video<a>&#93;
 
 ***
 
