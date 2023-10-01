@@ -38,4 +38,4 @@ Aiming at crafting a single universal adversarial perturbation (UAP) to fool CNN
 
 ***
 
-&#42;Corresponding author&#58; Di Ming &#60;diming&#64;cqut.edu.cn&#62;
+&#42;Corresponding Author&#58; Di Ming &#60;diming&#64;cqut.edu.cn&#62;
