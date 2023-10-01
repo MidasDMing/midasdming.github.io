@@ -22,7 +22,7 @@ Aiming at crafting a single universal adversarial perturbation (UAP) to fool CNN
 
 #### Related Material
 
-&#91;<a href="https://openaccess.thecvf.com/content/ICCV2023/html/Liu_TRM-UAP_Enhancing_the_Transferability_of_Data-Free_Universal_Adversarial_Perturbation_via_ICCV_2023_paper.html">Html<a>&#93; &#91;<a href="https://openaccess.thecvf.com/content/ICCV2023/papers/Liu_TRM-UAP_Enhancing_the_Transferability_of_Data-Free_Universal_Adversarial_Perturbation_via_ICCV_2023_paper.pdf">Paper<a>&#93; &#91;<a href="https://openaccess.thecvf.com/content/ICCV2023/supplemental/Liu_TRM-UAP_Enhancing_the_ICCV_2023_supplemental.pdf">Supp<a>&#93; &#91;<a href="https://drive.google.com/file/d/16ljA-MjlF8dHHp5NVcHUtUjFX1u7HI8B/view?usp=sharing">Poster<a>&#93; &#91;<a href="https://drive.google.com/file/d/16Rdu6pGuSuaK14H1MK7acxatkHMjj_oL/view">Video<a>&#93;
+&#91;<a href="https://openaccess.thecvf.com/content/ICCV2023/html/Liu_TRM-UAP_Enhancing_the_Transferability_of_Data-Free_Universal_Adversarial_Perturbation_via_ICCV_2023_paper.html">html<a>&#93;      &#91;<a href="https://openaccess.thecvf.com/content/ICCV2023/papers/Liu_TRM-UAP_Enhancing_the_Transferability_of_Data-Free_Universal_Adversarial_Perturbation_via_ICCV_2023_paper.pdf">paper<a>&#93;      &#91;<a href="https://openaccess.thecvf.com/content/ICCV2023/supplemental/Liu_TRM-UAP_Enhancing_the_ICCV_2023_supplemental.pdf">supp<a>&#93; &#91;<a href="https://github.com/RandolphCarter0/TRMUAP">code<a>&#93;      &#91;<a href="https://drive.google.com/file/d/16ljA-MjlF8dHHp5NVcHUtUjFX1u7HI8B/view?usp=sharing">poster<a>&#93;      &#91;<a href="https://drive.google.com/file/d/16Rdu6pGuSuaK14H1MK7acxatkHMjj_oL/view">video<a>&#93;
 
 ***
 
@@ -40,4 +40,4 @@ Aiming at crafting a single universal adversarial perturbation (UAP) to fool CNN
 
 ***
 
-&#42; Corresponding Author&#58; Di Ming &#60;diming&#64;cqut.edu.cn&#62;
+&#42;<i>Corresponding Author&#58; Di Ming &#60;diming&#64;cqut.edu.cn&#62;</i>
