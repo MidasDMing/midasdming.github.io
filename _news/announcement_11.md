@@ -27,7 +27,7 @@ Aiming at crafting a single universal adversarial perturbation (UAP) to fool CNN
 ***
 
 #### Citation
-```
+
 @InProceedings{Liu_2023_ICCV,
     author    = {Liu, Yiran and Feng, Xin and Wang, Yunlong and Yang, Wu and Ming, Di},
     title     = {TRM-UAP: Enhancing the Transferability of Data-Free Universal Adversarial Perturbation via Truncated Ratio Maximization},
@@ -36,7 +36,6 @@ Aiming at crafting a single universal adversarial perturbation (UAP) to fool CNN
     year      = {2023},
     pages     = {4762-4771}
 }
-```
 
 ***
 
