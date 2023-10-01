@@ -1,7 +1,7 @@
 ---
 layout: page
 title: MILO-Group
-permalink: /projects/
+permalink: /milo-group/
 description: >
 nav: true
 nav_order: 4
