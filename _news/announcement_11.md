@@ -8,8 +8,6 @@ related_posts: false
 
 ### <b>TRM-UAP&#58; Enhancing the Transferability of Data-Free Universal Adversarial Perturbation via Truncated Ratio Maximization</b>
 
-***
-
 <b>Yiran Liu, Xin Feng, Yunlong Wang, Wu Yang, Di Ming&#42;</b>&#59; Proceedings of the IEEE&#47;CVF International Conference on Computer Vision (ICCV), 2023, pp. 4762-4771
 
 ***
@@ -27,7 +25,7 @@ Aiming at crafting a single universal adversarial perturbation (UAP) to fool CNN
 ***
 
 #### Citation
-
+```
 @InProceedings{Liu_2023_ICCV,
     author    = {Liu, Yiran and Feng, Xin and Wang, Yunlong and Yang, Wu and Ming, Di},
     title     = {TRM-UAP: Enhancing the Transferability of Data-Free Universal Adversarial Perturbation via Truncated Ratio Maximization},
@@ -36,7 +34,8 @@ Aiming at crafting a single universal adversarial perturbation (UAP) to fool CNN
     year      = {2023},
     pages     = {4762-4771}
 }
+```
 
 ***
 
-&#42;Corresponding Author&#58; Di Ming &#60;diming&#64;cqut.edu.cn&#62;
+&#42;Corresponding author&#58; Di Ming &#60;diming&#64;cqut.edu.cn&#62;
