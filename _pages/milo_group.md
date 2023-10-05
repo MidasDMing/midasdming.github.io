@@ -18,6 +18,10 @@ profile:
 
 <h6> At MILO group, we have broad research interests spanning from the theory to the application aspects of machine learning and large-scale optimization. Our current research works include: sparse learning, network pruning, adversarial attack, semantic segmentation, graph learning, clustering, self-supervised learning, nonlinear optimization, bilevel optimization, curriculum optimization, multi-stage optimization, etc. </h6>
 
+
+<!-- Rescale columns -->
+<div class="row g-0">
+<div class="col-md-12">
 <!-- pages/projects.md -->
 <div class="projects">
 {%- if site.enable_project_categories and page.display_categories %}
@@ -64,4 +68,7 @@ profile:
   </div>
   {%- endif -%}
 {%- endif -%}
+</div>
+<!-- Rescale columns -->
+</div>
 </div>
