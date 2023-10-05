@@ -10,8 +10,6 @@ horizontal: true
 profile:
   align: right
   image: milo-group.png
-  width: 200
-  height: 200
   image_circular: true # crops the image to make it circular
   address: >
 ---
