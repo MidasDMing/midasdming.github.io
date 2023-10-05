@@ -7,6 +7,11 @@ nav: true
 nav_order: 4
 display_categories: [Projects, Master Students, Undergraduate Students]
 horizontal: true
+profile:
+  align: right
+  image: milo-group.png
+  image_circular: true # crops the image to make it circular
+  address: >
 ---
 
 <h4> <b>M</b>achine <b>I</b>ntelligence and <b>L</b>arge-scale <b>O</b>ptimization Group (MILO-Group)</h4>
