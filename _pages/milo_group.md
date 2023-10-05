@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page_milo
 title: MILO-Group
 permalink: /milo-group/
 description: >
