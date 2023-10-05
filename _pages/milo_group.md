@@ -9,7 +9,7 @@ display_categories: [Projects, Master Students, Undergraduate Students]
 horizontal: true
 profile:
   align: right
-  image: milo-group.png
+  image: milo-group-s200.png
   image_circular: true # crops the image to make it circular
   address: >
 ---
