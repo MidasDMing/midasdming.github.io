@@ -10,20 +10,13 @@ layout: default
           </header>
 
           <article>
-
             <h4> <b>M</b>achine <b>I</b>ntelligence and <b>L</b>arge-scale <b>O</b>ptimization Group (MILO-Group)</h4>
-
 
             {% if page.profile -%}
             <div class="profile float-{%- if page.profile.align == 'left' -%}left{%- else -%}right{%- endif -%}">
               {%- if page.profile.image %}
-                <img src="/assets/img/milo-group.png" width="100" height="2100">
+                <img src="/assets/img/milo-group.png" width="100" height="100">
               {% endif -%}
-              {%- if page.profile.address %}
-              <div class="address">
-                {{ page.profile.address }}
-              </div>
-              {%- endif %}
             </div>
             {%- endif %}
 
