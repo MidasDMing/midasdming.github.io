@@ -8,8 +8,8 @@
     <img
       src="{{ include.path | relative_url }}"
       {% if include.class %}class="{{ include.class }}"{% endif %}
-      {% if include.width %}width="{{ include.width }}"{% else %}width="auto"{% endif %}
-      {% if include.height %}height="{{ include.height }}"{% else %}height="auto"{% endif %}
+      {% if include.width %}width="{{ 200 }}"{% endif %}
+      {% if include.height %}height="{{ 200 }}"{% endif %}
       onerror="this.onerror=null; $('.responsive-img-srcset').remove();"
     />
 

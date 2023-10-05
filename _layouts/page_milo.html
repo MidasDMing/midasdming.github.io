@@ -20,7 +20,7 @@ layout: default
                 {%- assign profile_image_path = page.profile.image | prepend: 'assets/img/' -%}
 
                 {% if page.profile.image_circular %}
-                  {%- assign profile_image_class = "img-thumbnail z-depth-1 rounded-circle" -%}
+                  {%- assign profile_image_class = "rounded-circle" -%}
                 {% else %}
                   {%- assign profile_image_class = "img-fluid z-depth-1 rounded" -%}
                 {% endif %}
@@ -28,8 +28,6 @@ layout: default
                 {% include figure_logo.html
                 path=profile_image_path
                 class=profile_image_class
-                width=200
-                height=200
                 alt=page.profile.image -%}
               {% endif -%}
               {%- if page.profile.address %}
