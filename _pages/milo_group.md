@@ -2,7 +2,7 @@
 layout: page_milo
 title: MILO-Group
 permalink: /milo-group/
-description: >
+description: <b>M</b>achine <b>I</b>ntelligence and <b>L</b>arge-scale <b>O</b>ptimization Group (MILO-Group)
 nav: true
 nav_order: 4
 display_categories: [Projects, Master Students, Undergraduate Students]
@@ -14,7 +14,7 @@ profile:
   address: >
 ---
 
-<h4> <b>M</b>achine <b>I</b>ntelligence and <b>L</b>arge-scale <b>O</b>ptimization Group (MILO-Group)</h4>
+
 
 <h6> Founded in 2022, Led by <a href="https://midasdming.github.io">Dr. Di Ming</a>. </h6>
 
