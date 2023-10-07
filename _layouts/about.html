@@ -9,13 +9,17 @@ layout: default
             <!-- All the Names to be displayed -->
             <div class="row g-0">
               <!-- English Name -->
-              <div class="col" style="width:50px;">
+              <div class="col-sm-3">
                 {% if site.title == "blank" -%}<span class="font-weight-bold">{{ site.first_name }}</span> <span class="font-weight-bold">{{ site.middle_name }}</span> <span class="font-weight-bold">{{ site.last_name }} </span> {%- else -%}{{ site.title }}{%- endif %}
               </div>
               <!-- Chinese Name -->
-              <div class="col" style="width:20px;">
+              <div class="col-sm-2">
                 <link href='https://fonts.googleapis.com/css?family=Ma Shan Zheng' rel='stylesheet'>
                 <p style="font-family:'Ma Shan Zheng';font-size:40px;"> 明镝 </p>
+              </div>
+              <!-- Empty for extra info -->
+              <div class="col-sm-13">
+                <p>   </p>
               </div>
             </div>
           </h1>
