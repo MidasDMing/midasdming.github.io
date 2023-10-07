@@ -8,13 +8,14 @@ layout: default
           <h1 class="post-title">
             <!-- All the Names to be displayed -->
             <div class="row g-0">
-              <div class="col-md-4">
-                <!-- English Name -->
+              <!-- English Name -->
+              <div class="col-md-3">
                 {% if site.title == "blank" -%}<span class="font-weight-bold">{{ site.first_name }}</span> <span class="font-weight-bold">{{ site.middle_name }}</span> <span class="font-weight-bold">{{ site.last_name }} </span> {%- else -%}{{ site.title }}{%- endif %}
-                <!-- Chinese Name -->
+              </div>
+              <!-- Chinese Name -->
+              <div class="col-md-2">
                 <link href='https://fonts.googleapis.com/css?family=Ma Shan Zheng' rel='stylesheet'> <p style="font-family:'Ma Shan Zheng';font-size:40px;"> 明镝 </p>
               </div>
-              
             </div>
           </h1>
           <p class="desc">{{ page.subtitle }}</p>
