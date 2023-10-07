@@ -7,19 +7,15 @@ layout: default
         <header class="post-header">
           <h1 class="post-title">
             <!-- All the Names to be displayed -->
-            <div class="row g-0" style="padding-left: 0px; padding-right: 0px;">
+            <div class="row g-0">
               <!-- English Name -->
-              <div class="col-sm-3" style="padding-left: 0px; padding-right: 0px;">
+              <div class="col" style="width:200px;">
                 {% if site.title == "blank" -%}<span class="font-weight-bold">{{ site.first_name }}</span> <span class="font-weight-bold">{{ site.middle_name }}</span> <span class="font-weight-bold">{{ site.last_name }} </span> {%- else -%}{{ site.title }}{%- endif %}
               </div>
               <!-- Chinese Name -->
-              <div class="col-sm-2" style="padding-left: 0px; padding-right: 0px;">
+              <div class="col" style="width:100px;">
                 <link href='https://fonts.googleapis.com/css?family=Ma Shan Zheng' rel='stylesheet'>
                 <p style="font-family:'Ma Shan Zheng';font-size:40px;"> 明镝 </p>
-              </div>
-              <!-- Empty for extra info -->
-              <div class="col-sm-13">
-                <p>   </p>
               </div>
             </div>
           </h1>
