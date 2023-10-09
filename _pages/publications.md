@@ -12,7 +12,7 @@ nav_order: 1
 
 <b>*</b> denotes the corresponding author.
 
-<b>#</b> denotes Dr. Di Ming's mentee.
+<b>&daggers;</b> denotes Dr. Di Ming's mentee.
 
 An up-to-date list is available on <a href="https://scholar.google.com/citations?user=NQRaX1oAAAAJ&hl=en">Google Scholar</a>.
 
