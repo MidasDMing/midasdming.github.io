@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Yiran Liu
-description: Spring 2022 - Spring 2023, Co-supervised with Prof. Wu Yang and Prof. Xin Feng. <br> Research Topic&#58; Universal Adversarial Attack. <br> Next Stop&#58; Beijing University of Posts and Telecommunications, Ph.D. Student. 
+title: Yiran Liu (刘依然)
+description: Spring 2022 - Spring 2023, Co-supervised with Prof. Wu Yang and Prof. Xin Feng. <br> Research Topic&#58; Universal Adversarial Attack. <br> Next Stop&#58; Beijing University of Posts and Telecommunications, Ph.D. Student.
 img: /assets/students-img/LiuYiRan.jpg
 redirect: https://unsplash.com
 importance: 101

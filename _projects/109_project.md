@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Wenwen Zhang
+title: Wenwen Zhang (张文文)
 description: Starting in Fall 2023. <br> Research Topic&#58; Machine Learning &#38; Data Mining.
 img: /assets/students-img/ZhangWenWen.jpg
 redirect: https://unsplash.com
