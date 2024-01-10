@@ -1,6 +1,6 @@
 "CCF-A":
   url: https://www.ccf.org.cn/Academic_Evaluation/AI/
-  color: "#ff0000"
+  color: "#FF0000"
 
 "IJCAI":
   url: https://www.ijcai.org/
@@ -35,4 +35,7 @@
   color: "#0000FF"
 
 "CISP":
+  color: "#0000FF"
+
+"ArXiv":
   color: "#0000FF"
