@@ -2,6 +2,10 @@
   url: https://www.ccf.org.cn/Academic_Evaluation/AI/
   color: "#FF0000"
 
+"JCR-Q1":
+  url: https://jcr.clarivate.com/jcr/home
+  color: "#FF0000"
+
 "IJCAI":
   url: https://www.ijcai.org/
   color: "#0000FF"
