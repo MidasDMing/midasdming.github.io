@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2019-01-27 07:59:00-0400
-title: One paper accepted by Thirty-Third <b>AAAI Conference on Artificial Intelligence</b> (<b>AAAI 2019</b>)! (Acceptance rates&#58; 16.2&#37;, 1150&#47;7095)
+title: One paper accepted by Thirty-Third <b>AAAI Conference on Artificial Intelligence</b> (<b>AAAI 2019</b>)! Acceptance rates&#58; 16.2&#37;, 1150&#47;7095.
 inline: false
 related_posts: false
 ---
