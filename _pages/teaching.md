@@ -18,7 +18,7 @@ Undergraduate and graduate courses that I will be teaching annually.
 
 ***
 
-#### Deep Learning (CS2030304)
+#### Deep Learning (CS3201, CS2030304)
 - Spring 2024
 - Spring 2023
 
