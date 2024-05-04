@@ -1,12 +1,10 @@
 ---
 layout: page_projects
 permalink: /projects/
-title: Projects
+title: Research Projects and Grants
 description: >
 nav: true
 nav_order: 2
 display_categories: [Projects]
 horizontal: true
 ---
-
-Research Projects and Grants.
