@@ -9,4 +9,4 @@ display_categories: [Projects]
 horizontal: true
 ---
 
-<h4> Research Projects and Grants.  </h4>
+Research Projects and Grants.
