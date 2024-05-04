@@ -5,7 +5,7 @@ permalink: /milo-group/
 description: >
 nav: true
 nav_order: 4
-display_categories: [Projects, Master Students, Undergraduate Students, Alumni]
+display_categories: [Master Students, Undergraduate Students, Alumni]
 horizontal: true
 profile:
   align: right
