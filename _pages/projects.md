@@ -9,4 +9,4 @@ display_categories: [Projects]
 horizontal: true
 ---
 
-The research projects that I have been actively engaged in lately.
+The research projects that I have been actively engaged in recently.
