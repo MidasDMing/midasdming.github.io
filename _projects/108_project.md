@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Try Sreyna (希瑞娜)
+title: Try Sreyna
 description: Starting in Summer 2023. <br> Research Topic&#58; Adversarial Attack on Face Recognition.
 img: /assets/students-img/TrySreyna.jpg
 redirect: https://unsplash.com
