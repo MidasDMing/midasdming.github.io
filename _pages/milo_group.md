@@ -6,7 +6,7 @@ description: >
 nav: true
 nav_order: 4
 display_categories: [Master Students, Undergraduate Students, Alumni]
-horizontal: true
+horizontal: false
 profile:
   align: right
   image: milo-group.png
