@@ -9,4 +9,4 @@ display_categories: [Projects]
 horizontal: true
 ---
 
-Research Projects and Grants.
+The research projects that I have been actively engaged in lately.
