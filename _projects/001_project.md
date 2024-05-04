@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Foreground Extraction Algorithm
-description: Grant&#58; Omron Corporation (OMRON) <br> Year&#58; 2023
+description: Supported by&#58; Omron Corporation (OMRON) <br> Year&#58; 2023 <br> Grant&#58; 125K(RMB)
 img:
 redirect: https://unsplash.com
 importance: 002
