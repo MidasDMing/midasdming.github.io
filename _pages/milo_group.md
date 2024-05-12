@@ -3,7 +3,7 @@ layout: page_milo
 title: MILO-Group
 permalink: /milo-group/
 description: >
-nav: true
+nav: false # not displayed temporarily.
 nav_order: 4
 display_categories: [Master Students, Undergraduate Students, Alumni]
 horizontal: true
