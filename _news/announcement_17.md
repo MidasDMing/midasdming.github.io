@@ -24,7 +24,7 @@ Deep neural networks (DNNs) are vulnerable to highly transferable adversarial at
 
 #### <b>Related Material</b>
 
-&#91;<a href="https://github.com/MisterRpeng/EGS-TSSA">html<a>&#93;      &#91;<a href="https://github.com/MisterRpeng/EGS-TSSA">paper<a>&#93;      &#91;<a href="https://github.com/MisterRpeng/EGS-TSSA">supp<a>&#93; &#91;<a href="https://github.com/MisterRpeng/EGS-TSSA">code<a>&#93;      &#91;<a href="https://github.com/MisterRpeng/EGS-TSSA">poster<a>&#93;      &#91;<a href="https://github.com/MisterRpeng/EGS-TSSA">video<a>&#93;
+&#91;<a href="https://github.com/MisterRpeng/EGS-TSSA">html<a>&#93;      &#91;<a href="https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers">paper<a>&#93;      &#91;<a href="https://github.com/MisterRpeng/EGS-TSSA">supp<a>&#93; &#91;<a href="https://github.com/MisterRpeng/EGS-TSSA">code<a>&#93;      &#91;<a href="https://drive.google.com/file/d/1QqOaq-PXrNTeZvV9oVvoANz2NsqMTOst/view?usp=sharing">poster<a>&#93;      &#91;<a href="https://drive.google.com/file/d/1tE_1PUYNf5KXrjoD3VPbCmNM7cJI-2Uq/view?usp=drive_link">video<a>&#93;
 
 ***
 
