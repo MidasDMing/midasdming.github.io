@@ -24,7 +24,7 @@ Deep neural networks (DNNs) are vulnerable to highly transferable adversarial at
 
 #### <b>Related Material</b>
 
-&#91;<a href="https://github.com/MisterRpeng/EGS-TSSA">html<a>&#93;      &#91;<a href="https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers">paper<a>&#93;      &#91;<a href="https://github.com/MisterRpeng/EGS-TSSA">supp<a>&#93; &#91;<a href="https://github.com/MisterRpeng/EGS-TSSA">code<a>&#93;      &#91;<a href="https://drive.google.com/file/d/1QqOaq-PXrNTeZvV9oVvoANz2NsqMTOst/view?usp=sharing">poster<a>&#93;      &#91;<a href="https://drive.google.com/file/d/1tE_1PUYNf5KXrjoD3VPbCmNM7cJI-2Uq/view?usp=drive_link">video<a>&#93;
+&#91;<a href="https://openaccess.thecvf.com/content/CVPR2024/html/Ming_Transferable_Structural_Sparse_Adversarial_Attack_Via_Exact_Group_Sparsity_Training_CVPR_2024_paper.html">html<a>&#93;      &#91;<a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Ming_Transferable_Structural_Sparse_Adversarial_Attack_Via_Exact_Group_Sparsity_Training_CVPR_2024_paper.pdf">paper<a>&#93;      &#91;<a href="https://openaccess.thecvf.com/content/CVPR2024/supplemental/Ming_Transferable_Structural_Sparse_CVPR_2024_supplemental.pdf">supp<a>&#93; &#91;<a href="https://github.com/MisterRpeng/EGS-TSSA">code<a>&#93;      &#91;<a href="https://drive.google.com/file/d/1QqOaq-PXrNTeZvV9oVvoANz2NsqMTOst/view?usp=sharing">poster<a>&#93;      &#91;<a href="https://drive.google.com/file/d/1tE_1PUYNf5KXrjoD3VPbCmNM7cJI-2Uq/view?usp=drive_link">video<a>&#93;
 
 ***
 
@@ -36,7 +36,7 @@ Deep neural networks (DNNs) are vulnerable to highly transferable adversarial at
     booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
     month     = {June},
     year      = {2024},
-    pages     = {xxxx-xxxx}
+    pages     = {24696-24705}
 }
 ```
 
