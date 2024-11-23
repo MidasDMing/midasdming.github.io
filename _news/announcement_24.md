@@ -6,7 +6,7 @@ inline: false
 related_posts: false
 ---
 
-### <b><a href="https://github.com/MisterRpeng/ATT">Boosting the Transferability of Adversarial Attack on Vision Transformer with Adaptive Token Tuning<a></b>
+### <a href="https://github.com/MisterRpeng/ATT"><b>Boosting the Transferability of Adversarial Attack on Vision Transformer with Adaptive Token Tuning</b><a>
 
 ***
 
