@@ -7,4 +7,4 @@ related_posts: false
 ---
 
 
-<a href="https://eccv.ecva.net/Conferences/2024/Reviewers">List of Outstanding Reviewers<a>
+### <b> List of Outstanding Reviewers </b>
