@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2024-11-23 13:59:00-0400
+date: 2024-11-22 13:59:00-0400
 title: Code for our method <b>&#34;Boosting the Transferability of Adversarial Attack on Vision Transformer with Adaptive Token Tuning (NeurIPS 2024)&#34;</b> is released!
 inline: false
 related_posts: false
