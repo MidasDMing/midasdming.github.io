@@ -20,18 +20,16 @@ Undergraduate and graduate courses that I will be teaching annually.
 ***
 
 #### Deep Learning (CS3201, CS2030304)
+- Spring 2025
 - Fall 2024
 - Spring 2024
 - Spring 2023
 
 ***
 
-#### Machine Learning (CS1030068, CS6030303)
+#### Machine Learning (CS1030068, CS1040194, CS6030303)
+- Spring 2025
+- Spring 2024
 - Fall 2023
 - Spring 2023
 - Spring 2022
-
-***
-
-#### Artificial Intelligence and Machine Learning (CS1040194)
-- Spring 2024
