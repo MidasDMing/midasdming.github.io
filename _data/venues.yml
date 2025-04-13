@@ -70,3 +70,7 @@
 
 "ESWA":
   color: "#0000FF"
+
+"PRL":
+  url: https://www.sciencedirect.com/journal/pattern-recognition-letters
+  color: "#0000FF"
