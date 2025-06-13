@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Thrilled and honored to receive the <b>&#34;Outstanding Reviewer Award&#34;</b> from the Program Committee of the <b>Computer Vision and Pattern Recognition</b> (<b>CVPR</b>) 2025!
-date: 2025-06-13 08:59:00-0400
+date: 2025-06-12 08:59:00-0400
 inline: false
 related_posts: false
 ---
