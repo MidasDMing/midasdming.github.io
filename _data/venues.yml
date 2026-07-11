@@ -80,3 +80,11 @@
 
 "TVC":
   color: "#0000FF"
+
+"ACM MM":
+  url: https://acmmm.org/
+  color: "#0000FF"
+
+"PRCV":
+  url: https://prcv.cn/
+  color: "#0000FF"
