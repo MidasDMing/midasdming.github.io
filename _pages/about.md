@@ -22,4 +22,4 @@ I obtained my Ph.D. degree in Computer Science from <b><a href="https://www.uta.
 
 My primary research interests are machine learning and optimization, aiming at developing robust learning models and efficient optimization algorithms to solve real-world problems in various scenarios, such as feature selection, data reconstruction, subspace clustering, representation learning, graph learning, adversarial attack, foreground extraction, saliency detection, dermoscopy image segmentation, etc.
 
-<b>Office</b>: Room B208, First Laboratory Building, 69 Hongguang Avenue, Banan District, Chongqing 400054.
+<b>Office</b>: Room 415-1, Huizhi Building, 459 Pufu Avenue, Liangjiang New Area, Chongqing 401135.
