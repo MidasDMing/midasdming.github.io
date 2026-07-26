@@ -88,3 +88,7 @@
 "PRCV":
   url: https://prcv.cn/
   color: "#0000FF"
+
+"TPAMI":
+  url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34
+  color: "#0000FF"
