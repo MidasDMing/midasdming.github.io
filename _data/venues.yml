@@ -34,6 +34,10 @@
   url: https://www.thecvf.com/
   color: "#0000FF"
 
+"LoG":
+  url: https://logconference.org/
+  color: "#0000FF"
+
 "NeurIPS":
   url: https://nips.cc/
   color: "#0000FF"
