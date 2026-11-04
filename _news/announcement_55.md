@@ -23,7 +23,7 @@ are available at https&#58;&#47;&#47;github&#46;com&#47;AdvML-Group&#47;COPIA.
 
 #### <b>Related Material</b>
 
-&#91;<a href="https://github.com/AdvML-Group/COPIA">html<a>&#93;      &#91;<a href="https://github.com/AdvML-Group/COPIA">paper<a>&#93;      &#91;<a href="https://github.com/AdvML-Group/COPIA">supp<a>&#93; &#91;<a href="https://github.com/AdvML-Group/COPIA">code<a>&#93;      &#91;<a href="https://github.com/AdvML-Group/COPIA">poster<a>&#93;      &#91;<a href="https://github.com/AdvML-Group/COPIA">video<a>&#93;
+&#91;<a href="https://github.com/AdvML-Group/COPIA">html<a>&#93;      &#91;<a href="https://github.com/AdvML-Group/COPIA">paper<a>&#93;      &#91;<a href="https://github.com/AdvML-Group/COPIA/blob/main/COPIA_Full.pdf">supp<a>&#93; &#91;<a href="https://github.com/AdvML-Group/COPIA">code<a>&#93;      &#91;<a href="ttps://github.com/AdvML-Group/COPIA/blob/main/COPIA_Poster.pdf">poster<a>&#93;
 
 
 ***
