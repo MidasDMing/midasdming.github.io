@@ -11,7 +11,7 @@ related_posts: false
 ***
 
 <b> Di Ming, Renqing Yang, Yuanchengzhi Liu, Peng Ren, Pengzhan Zhou, Yunlong Wang, and Xin Feng&#42;</b>&#59; 34th ACM International Conference on Multimedia (ACM MM), 2026.
-$$
+
 ***
 
 #### <b>Abstract</b>
